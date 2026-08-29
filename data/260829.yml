@@ -1,0 +1,67 @@
+about:
+  description: Welcome to a calmer internet
+  license: MPL-2.0
+  homepage: https://zen-browser.app
+  head: 9ef1d96
+  archived: false
+  latestVersion: 1.21.15b
+  collectedAt: 2026-08-29T07:37:23Z
+timeline:
+  created: 2024-03-28
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-19
+popularity:
+  star: 44151
+  watcher: 99
+  fork: 1727
+  release: 186
+  contributor: 232
+  pullRequest: 561
+  issue: 9742
+language:
+  C++: 7816131
+  Fluent: 1702624
+  JavaScript: 1567715
+  CSS: 276563
+  HTML: 59573
+  Python: 35536
+  Shell: 26565
+  Rust: 15214
+  PowerShell: 11042
+  Objective-C++: 7549
+  Makefile: 6421
+  CMake: 2007
+totalLine: 11526940
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 6
+    mergedPR: 64
+    openPR: 19
+    closedIssue: 99
+    openIssue: 75
+    commit: 66
+  last90d:
+    since: 2026-05-31
+    release: 17
+    mergedPR: 185
+    openPR: 35
+    closedIssue: 355
+    openIssue: 239
+    commit: 186
+  last180d:
+    since: 2026-03-02
+    release: 32
+    mergedPR: 464
+    openPR: 44
+    closedIssue: 872
+    openIssue: 448
+    commit: 479
+  last360d:
+    since: 2025-09-03
+    release: 68
+    mergedPR: 734
+    openPR: 54
+    closedIssue: 2121
+    openIssue: 543
+    commit: 1258
