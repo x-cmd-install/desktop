@@ -5,19 +5,19 @@ about:
   head: a323036
   archived: false
   latestVersion: "1.22b"
-  collectedAt: 2026-09-07T06:19:27Z
+  collectedAt: 2026-09-07T18:14:47Z
 timeline:
   created: 2024-03-28
   lastCommit: 2026-09-06
   lastRelease: 2026-09-05
 popularity:
-  star: 44300
+  star: 44318
   watcher: 103
-  fork: 1737
+  fork: 1738
   release: 188
   contributor: 232
   pullRequest: 1844
-  issue: 9800
+  issue: 9804
 language:
   C++: 7942226
   Fluent: 1705073
@@ -37,60 +37,60 @@ recent:
     since: 2026-08-08
     release: 5
     mergedPR: 66
-    openPR: 17
-    closedIssue: 108
-    openIssue: 84
+    openPR: 16
+    closedIssue: 109
+    openIssue: 87
     commit: 60
   last60d:
     since: 2026-07-09
     release: 12
     mergedPR: 121
-    openPR: 30
-    closedIssue: 225
-    openIssue: 141
+    openPR: 29
+    closedIssue: 226
+    openIssue: 144
     commit: 121
   last90d:
     since: 2026-06-09
     release: 18
     mergedPR: 183
-    openPR: 38
-    closedIssue: 362
-    openIssue: 232
+    openPR: 37
+    closedIssue: 364
+    openIssue: 234
     commit: 176
   last180d:
     since: 2026-03-11
     release: 33
     mergedPR: 465
-    openPR: 46
-    closedIssue: 841
-    openIssue: 460
+    openPR: 45
+    closedIssue: 843
+    openIssue: 462
     commit: 458
   last360d:
     since: 2025-09-12
     release: 68
     mergedPR: 744
-    openPR: 58
-    closedIssue: 2096
-    openIssue: 562
+    openPR: 57
+    closedIssue: 2098
+    openIssue: 564
     commit: 1212
   last720d:
     since: 2024-09-17
     release: 100
     mergedPR: 1180
-    openPR: 67
-    closedIssue: 8084
-    openIssue: 612
+    openPR: 66
+    closedIssue: 8086
+    openIssue: 614
     commit: 5375
 total:
   release: 188
   mergedPR: 1265
-  openPR: 67
-  closedIssue: 9188
-  openIssue: 612
+  openPR: 66
+  closedIssue: 9190
+  openIssue: 614
   commit: 6987
 ---
 path: /home/runner/.x-repo/github.com/zen-browser/desktop
-collectedAt: 2026-09-07T06:22:21Z
+collectedAt: 2026-09-07T18:16:53Z
 loc:
   JavaScript:
     code: 111625
@@ -211,7 +211,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:22:22+00:00
+  collectedAt: 2026-09-07T18:16:55+00:00
   platform:
     darwin/arm64:
       name:  macos.mar
