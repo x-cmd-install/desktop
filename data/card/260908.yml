@@ -5,13 +5,13 @@ about:
   head: 412731f
   archived: false
   latestVersion: "1.22b"
-  collectedAt: 2026-09-08T03:25:01Z
+  collectedAt: 2026-09-08T06:08:52Z
 timeline:
   created: 2024-03-28
   lastCommit: 2026-09-07
   lastRelease: 2026-09-05
 popularity:
-  star: 44324
+  star: 44327
   watcher: 103
   fork: 1739
   release: 188
@@ -90,7 +90,7 @@ total:
   commit: 6989
 ---
 path: /home/runner/.x-repo/github.com/zen-browser/desktop
-collectedAt: 2026-09-08T03:27:35Z
+collectedAt: 2026-09-08T06:10:57Z
 loc:
   JavaScript:
     code: 112306
