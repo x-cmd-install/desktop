@@ -7,7 +7,7 @@ Welcome to a calmer internet
 - **Latest release**: `1.22b` (2026-09-05)
 - **Last commit**: 2026-09-09
 - **License**: MPL-2.0
-- **Stars**: 44360 · **Forks**: 1743 · **Open issues**: 9820 · **Contributors**: 233
+- **Stars**: 44370 · **Forks**: 1741 · **Open issues**: 9828 · **Contributors**: 233
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/desktop> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:32:22Z._
+_Last regenerated: 2026-09-09T21:05:05Z._
