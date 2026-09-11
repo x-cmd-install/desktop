@@ -2,31 +2,31 @@ about:
   description: "Welcome to a calmer internet"
   license: MPL-2.0
   homepage: https://zen-browser.app
-  head: c89645a
+  head: 22961e9
   archived: false
   latestVersion: "1.22b"
   latestRelease: "1.22b"
   latestPrerelease: "twilight-1"
-  collectedAt: 2026-09-11T06:21:06Z
+  collectedAt: 2026-09-11T18:33:40Z
 timeline:
   created: 2024-03-28
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-09-05
   lastRelease: 2026-09-05
   lastPrerelease: 2026-02-21
 popularity:
-  star: 44388
+  star: 44397
   watcher: 103
-  fork: 1744
+  fork: 1745
   release: 188
-  contributor: 233
-  pullRequest: 1874
-  issue: 9840
+  contributor: 234
+  pullRequest: 1885
+  issue: 9850
 language:
   C++: 7999026
   Fluent: 1705348
   JavaScript: 1615593
-  CSS: 290194
+  CSS: 290478
   HTML: 62801
   Python: 35536
   Shell: 26565
@@ -35,66 +35,66 @@ language:
   Objective-C++: 7549
   Makefile: 6421
   CMake: 2007
-totalBytes: 11777296
+totalBytes: 11777580
 recent:
   last30d:
     since: 2026-08-12
     release: 4
-    mergedPR: 76
+    mergedPR: 80
     openPR: 16
-    closedIssue: 123
-    openIssue: 80
-    commit: 78
+    closedIssue: 132
+    openIssue: 81
+    commit: 82
   last60d:
     since: 2026-07-13
     release: 11
-    mergedPR: 135
+    mergedPR: 139
     openPR: 31
-    closedIssue: 245
-    openIssue: 142
-    commit: 139
+    closedIssue: 254
+    openIssue: 143
+    commit: 143
   last90d:
     since: 2026-06-13
     release: 17
-    mergedPR: 190
+    mergedPR: 194
     openPR: 38
-    closedIssue: 366
-    openIssue: 221
-    commit: 194
+    closedIssue: 375
+    openIssue: 222
+    commit: 198
   last180d:
     since: 2026-03-15
     release: 32
-    mergedPR: 477
+    mergedPR: 481
     openPR: 48
-    closedIssue: 851
-    openIssue: 463
-    commit: 476
+    closedIssue: 860
+    openIssue: 464
+    commit: 480
   last360d:
     since: 2025-09-16
     release: 68
-    mergedPR: 752
+    mergedPR: 756
     openPR: 58
-    closedIssue: 2103
-    openIssue: 568
-    commit: 1230
+    closedIssue: 2112
+    openIssue: 569
+    commit: 1234
   last720d:
     since: 2024-09-21
     release: 100
-    mergedPR: 1193
+    mergedPR: 1197
     openPR: 68
-    closedIssue: 8066
-    openIssue: 619
-    commit: 5347
+    closedIssue: 8075
+    openIssue: 620
+    commit: 5351
 total:
   release: 188
-  mergedPR: 1283
+  mergedPR: 1287
   openPR: 68
-  closedIssue: 9221
-  openIssue: 619
-  commit: 7005
+  closedIssue: 9230
+  openIssue: 620
+  commit: 7009
 ---
 path: /home/runner/.x-repo/github.com/zen-browser/desktop
-collectedAt: 2026-09-11T06:23:16Z
+collectedAt: 2026-09-11T18:36:51Z
 loc:
   JavaScript:
     code: 112628
@@ -117,9 +117,9 @@ loc:
     blanks: 3054
     files: 1
   Css:
-    code: 9567
+    code: 9574
     comments: 527
-    blanks: 1973
+    blanks: 1974
     files: 51
   Json:
     code: 5800
@@ -207,15 +207,15 @@ loc:
     blanks: 6
     files: 4
 total:
-  code: 266034
+  code: 266041
   comments: 28698
-  blanks: 32752
+  blanks: 32753
   files: 1925
 ---
 
 ---
   - zen-bin
-  - zen
   - updater
-  - gfxtest
   - pingsender
+  - zen
+  - gfxtest
