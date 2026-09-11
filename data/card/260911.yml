@@ -7,7 +7,7 @@ about:
   latestVersion: "1.22b"
   latestRelease: "1.22b"
   latestPrerelease: "twilight-1"
-  collectedAt: 2026-09-11T00:24:48Z
+  collectedAt: 2026-09-11T06:21:06Z
 timeline:
   created: 2024-03-28
   lastCommit: 2026-09-10
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-05
   lastPrerelease: 2026-02-21
 popularity:
-  star: 44385
+  star: 44388
   watcher: 103
   fork: 1744
   release: 188
   contributor: 233
-  pullRequest: 1872
-  issue: 9837
+  pullRequest: 1874
+  issue: 9840
 language:
   C++: 7999026
   Fluent: 1705348
@@ -42,59 +42,59 @@ recent:
     release: 4
     mergedPR: 76
     openPR: 16
-    closedIssue: 121
-    openIssue: 79
+    closedIssue: 123
+    openIssue: 80
     commit: 78
   last60d:
     since: 2026-07-13
     release: 11
     mergedPR: 135
     openPR: 31
-    closedIssue: 243
-    openIssue: 141
+    closedIssue: 245
+    openIssue: 142
     commit: 139
   last90d:
     since: 2026-06-13
     release: 17
     mergedPR: 190
     openPR: 38
-    closedIssue: 364
-    openIssue: 220
+    closedIssue: 366
+    openIssue: 221
     commit: 194
   last180d:
     since: 2026-03-15
     release: 32
     mergedPR: 477
     openPR: 48
-    closedIssue: 849
-    openIssue: 462
+    closedIssue: 851
+    openIssue: 463
     commit: 476
   last360d:
     since: 2025-09-16
     release: 68
     mergedPR: 752
     openPR: 58
-    closedIssue: 2101
-    openIssue: 567
+    closedIssue: 2103
+    openIssue: 568
     commit: 1230
   last720d:
     since: 2024-09-21
     release: 100
     mergedPR: 1193
     openPR: 68
-    closedIssue: 8064
-    openIssue: 618
+    closedIssue: 8066
+    openIssue: 619
     commit: 5347
 total:
   release: 188
   mergedPR: 1283
   openPR: 68
-  closedIssue: 9219
-  openIssue: 618
+  closedIssue: 9221
+  openIssue: 619
   commit: 7005
 ---
 path: /home/runner/.x-repo/github.com/zen-browser/desktop
-collectedAt: 2026-09-11T00:29:04Z
+collectedAt: 2026-09-11T06:23:16Z
 loc:
   JavaScript:
     code: 112628
@@ -215,7 +215,7 @@ total:
 
 ---
   - zen-bin
+  - zen
   - updater
   - gfxtest
-  - zen
   - pingsender
