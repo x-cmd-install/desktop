@@ -12,6 +12,18 @@ Welcome to a calmer internet
 x install desktop
 ```
 
+## Code insight
+
+Total: **265,771** lines of code across **1336** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| JavaScript | 112,628 | 13,349 | 17,547 | 702 |
+| TypeScript | 71,800 | 1,496 | 6,450 | 13 |
+| FreeMarker | 34,590 | 0 | 877 | 569 |
+| CppHeader | 17,980 | 4,492 | 3,054 | 1 |
+| Css | 9,567 | 527 | 1,973 | 51 |
+
 ## Source
 
 - **Upstream**: <https://github.com/zen-browser/desktop>
@@ -21,45 +33,55 @@ x install desktop
 ## Release
 
 - **Latest**: `1.22b` (2026-09-05)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-10
 - **Assets in release**: 15
-- **Published**: 2026-09-05T17:56:46Z
 
 ## Popularity
 
-- **Stars**: 44,372 · **Forks**: 1,741 · **Open issues**: 9,829 · **Contributors**: 233
+- **Stars**: 44,385 · **Forks**: 1,744 · **Open issues**: 9,837 · **Contributors**: 233
 
 ## Totals (cumulative)
 
-- **Releases**: 188 · **Merged PRs**: 1278 · **Open PRs**: 66 · **Closed issues**: 9209 · **Open issues**: 620 · **Commits**: 7000
+- **Releases**: 188 · **Merged PRs**: 1283 · **Open PRs**: 68 · **Closed issues**: 9219 · **Open issues**: 618 · **Commits**: 7005
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 71 | 15 | 113 | 84 | 73 |
-| 90d | 2026-06-12 | 17 | 186 | 36 | 356 | 228 | 189 |
-| 360d | 2025-09-15 | 68 | 751 | 56 | 2097 | 570 | 1225 |
+| 30d | 2026-08-12 | 4 | 76 | 16 | 121 | 79 | 78 |
+| last60d | 2026-07-13 | 11 | 135 | 31 | 243 | 141 | 139 |
+| 90d | 2026-06-13 | 17 | 190 | 38 | 364 | 220 | 194 |
+| last180d | 2026-03-15 | 32 | 477 | 48 | 849 | 462 | 476 |
+| 360d | 2025-09-16 | 68 | 752 | 58 | 2101 | 567 | 1230 |
+| last720d | 2024-09-21 | 100 | 1193 | 68 | 8064 | 618 | 5347 |
 
-## Code size
+## Release assets
 
-Total: **265,614** lines of code across **1335** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| JavaScript | 112,510 | 13,348 | 17,533 | 701 |
-| TypeScript | 71,800 | 1,496 | 6,450 | 13 |
-| FreeMarker | 34,590 | 0 | 877 | 569 |
-| CppHeader | 17,980 | 4,492 | 3,054 | 1 |
-| Css | 9,567 | 527 | 1,973 | 51 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [linux-aarch64.mar](https://github.com/zen-browser/desktop/releases/download/1.22b/linux-aarch64.mar) | 92.3 MiB | `native/linux/arm64` |
+| [linux.mar](https://github.com/zen-browser/desktop/releases/download/1.22b/linux.mar) | 107.3 MiB | `other` |
+| [macos.mar](https://github.com/zen-browser/desktop/releases/download/1.22b/macos.mar) | 158.6 MiB | `native/darwin/x64` |
+| [windows-arm64.mar](https://github.com/zen-browser/desktop/releases/download/1.22b/windows-arm64.mar) | 102.8 MiB | `native/win/arm64` |
+| [windows.mar](https://github.com/zen-browser/desktop/releases/download/1.22b/windows.mar) | 117.6 MiB | `native/win/x64` |
+| [zen-aarch64.AppImage](https://github.com/zen-browser/desktop/releases/download/1.22b/zen-aarch64.AppImage) | 121.8 MiB | `other` |
+| [zen-aarch64.AppImage.zsync](https://github.com/zen-browser/desktop/releases/download/1.22b/zen-aarch64.AppImage.zsync) | 213.3 KiB | `other` |
+| [zen-x86_64.AppImage](https://github.com/zen-browser/desktop/releases/download/1.22b/zen-x86_64.AppImage) | 136.3 MiB | `other` |
+| [zen-x86_64.AppImage.zsync](https://github.com/zen-browser/desktop/releases/download/1.22b/zen-x86_64.AppImage.zsync) | 238.7 KiB | `other` |
+| [zen.installer-arm64.exe](https://github.com/zen-browser/desktop/releases/download/1.22b/zen.installer-arm64.exe) | 102.2 MiB | `other` |
+| [zen.installer.exe](https://github.com/zen-browser/desktop/releases/download/1.22b/zen.installer.exe) | 108.9 MiB | `other` |
+| [zen.linux-aarch64.tar.xz](https://github.com/zen-browser/desktop/releases/download/1.22b/zen.linux-aarch64.tar.xz) | 92.0 MiB | `native/linux/arm64` |
+| [zen.linux-x86_64.tar.xz](https://github.com/zen-browser/desktop/releases/download/1.22b/zen.linux-x86_64.tar.xz) | 104.4 MiB | `native/linux/x64` |
+| [zen.macos-universal.dmg](https://github.com/zen-browser/desktop/releases/download/1.22b/zen.macos-universal.dmg) | 222.8 MiB | `native/darwin/x64` |
+| [zen.source.tar.zst](https://github.com/zen-browser/desktop/releases/download/1.22b/zen.source.tar.zst) | 1019.6 MiB | `other` |
 
 ## Improve this data
 
 Install metadata for desktop lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `desktop` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/desktop.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/desktop.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T06:28:36Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:29:28Z._

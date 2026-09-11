@@ -4,13 +4,25 @@
 
 Welcome to a calmer internet
 
-![desktop](https://repo.x-cmd.io/desktop.svg)
+![desktop](https://repo.x-cmd.io/desktop.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install desktop
 ```
+
+## 代码洞察
+
+合计: **265,771** 行代码（覆盖前 5 种语言、共 **1336** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| JavaScript | 112,628 | 13,349 | 17,547 | 702 |
+| TypeScript | 71,800 | 1,496 | 6,450 | 13 |
+| FreeMarker | 34,590 | 0 | 877 | 569 |
+| CppHeader | 17,980 | 4,492 | 3,054 | 1 |
+| Css | 9,567 | 527 | 1,973 | 51 |
 
 ## 源代码
 
@@ -21,37 +33,47 @@ x install desktop
 ## 发布
 
 - **最新版本**: `1.22b` (2026-09-05)
-- **最近提交**: 2026-09-09
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 15 个
-- **发布时间**: 2026-09-05T17:56:46Z
 
 ## 流行度
 
-- **Star**: 44,372 · **Fork**: 1,741 · **开放 issue**: 9,829 · **贡献者**: 233
+- **Star**: 44,385 · **Fork**: 1,744 · **开放 issue**: 9,837 · **贡献者**: 233
 
 ## 累计统计
 
-- **发布数**: 188 · **已合并 PR**: 1278 · **开放 PR**: 66 · **已关闭 issue**: 9209 · **开放 issue**: 620 · **提交数**: 7000
+- **发布数**: 188 · **已合并 PR**: 1283 · **开放 PR**: 68 · **已关闭 issue**: 9219 · **开放 issue**: 618 · **提交数**: 7005
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 71 | 15 | 113 | 84 | 73 |
-| 90d | 2026-06-12 | 17 | 186 | 36 | 356 | 228 | 189 |
-| 360d | 2025-09-15 | 68 | 751 | 56 | 2097 | 570 | 1225 |
+| 30d | 2026-08-12 | 4 | 76 | 16 | 121 | 79 | 78 |
+| last60d | 2026-07-13 | 11 | 135 | 31 | 243 | 141 | 139 |
+| 90d | 2026-06-13 | 17 | 190 | 38 | 364 | 220 | 194 |
+| last180d | 2026-03-15 | 32 | 477 | 48 | 849 | 462 | 476 |
+| 360d | 2025-09-16 | 68 | 752 | 58 | 2101 | 567 | 1230 |
+| last720d | 2024-09-21 | 100 | 1193 | 68 | 8064 | 618 | 5347 |
 
-## 代码规模
+## Release 资产
 
-合计: **265,614** 行代码（覆盖前 5 种语言、共 **1335** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| JavaScript | 112,510 | 13,348 | 17,533 | 701 |
-| TypeScript | 71,800 | 1,496 | 6,450 | 13 |
-| FreeMarker | 34,590 | 0 | 877 | 569 |
-| CppHeader | 17,980 | 4,492 | 3,054 | 1 |
-| Css | 9,567 | 527 | 1,973 | 51 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [linux-aarch64.mar](https://github.com/zen-browser/desktop/releases/download/1.22b/linux-aarch64.mar) | 92.3 MiB | `native/linux/arm64` |
+| [linux.mar](https://github.com/zen-browser/desktop/releases/download/1.22b/linux.mar) | 107.3 MiB | `other` |
+| [macos.mar](https://github.com/zen-browser/desktop/releases/download/1.22b/macos.mar) | 158.6 MiB | `native/darwin/x64` |
+| [windows-arm64.mar](https://github.com/zen-browser/desktop/releases/download/1.22b/windows-arm64.mar) | 102.8 MiB | `native/win/arm64` |
+| [windows.mar](https://github.com/zen-browser/desktop/releases/download/1.22b/windows.mar) | 117.6 MiB | `native/win/x64` |
+| [zen-aarch64.AppImage](https://github.com/zen-browser/desktop/releases/download/1.22b/zen-aarch64.AppImage) | 121.8 MiB | `other` |
+| [zen-aarch64.AppImage.zsync](https://github.com/zen-browser/desktop/releases/download/1.22b/zen-aarch64.AppImage.zsync) | 213.3 KiB | `other` |
+| [zen-x86_64.AppImage](https://github.com/zen-browser/desktop/releases/download/1.22b/zen-x86_64.AppImage) | 136.3 MiB | `other` |
+| [zen-x86_64.AppImage.zsync](https://github.com/zen-browser/desktop/releases/download/1.22b/zen-x86_64.AppImage.zsync) | 238.7 KiB | `other` |
+| [zen.installer-arm64.exe](https://github.com/zen-browser/desktop/releases/download/1.22b/zen.installer-arm64.exe) | 102.2 MiB | `other` |
+| [zen.installer.exe](https://github.com/zen-browser/desktop/releases/download/1.22b/zen.installer.exe) | 108.9 MiB | `other` |
+| [zen.linux-aarch64.tar.xz](https://github.com/zen-browser/desktop/releases/download/1.22b/zen.linux-aarch64.tar.xz) | 92.0 MiB | `native/linux/arm64` |
+| [zen.linux-x86_64.tar.xz](https://github.com/zen-browser/desktop/releases/download/1.22b/zen.linux-x86_64.tar.xz) | 104.4 MiB | `native/linux/x64` |
+| [zen.macos-universal.dmg](https://github.com/zen-browser/desktop/releases/download/1.22b/zen.macos-universal.dmg) | 222.8 MiB | `native/darwin/x64` |
+| [zen.source.tar.zst](https://github.com/zen-browser/desktop/releases/download/1.22b/zen.source.tar.zst) | 1019.6 MiB | `other` |
 
 ## 改进这些数据
 
@@ -62,4 +84,4 @@ desktop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:28:37Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:29:29Z._
