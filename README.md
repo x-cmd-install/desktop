@@ -4,7 +4,7 @@
 
 Welcome to a calmer internet
 
-[![x-cmd/install — desktop Code Quality Monitoring Repo Card](https://repo.x-cmd.io/desktop.svg)](https://x-cmd.com/install/desktop)
+[![x-cmd/install — desktop Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/desktop.svg)](https://x-cmd.com/install/desktop)
 
 ## Install
 
@@ -14,7 +14,7 @@ x install desktop
 
 ## Code insight
 
-Total: **274,108** lines of code across **1357** files in the top 5 languages.
+Total: **274,114** lines of code across **1357** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **274,108** lines of code across **1357** files in the top 5 languages.
 | TypeScript | 71,800 | 1,496 | 6,450 | 13 |
 | FreeMarker | 34,700 | 0 | 885 | 570 |
 | CppHeader | 17,980 | 4,492 | 3,054 | 1 |
-| Css | 10,963 | 548 | 2,235 | 54 |
+| Css | 10,952 | 543 | 2,235 | 54 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **274,108** lines of code across **1357** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.22.2b` (2026-09-16)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 44,542 · **Forks**: 1,763 · **Open issues**: 9,927 · **Contributors**: 238
+- **Stars**: 44,555 · **Forks**: 1,767 · **Open issues**: 9,938 · **Contributors**: 238
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 1315 · **Open PRs**: 60 · **Closed issues**: 9288 · **Open issues**: 639 · **Commits**: 7037
+- **Releases**: 190 · **Merged PRs**: 1317 · **Open PRs**: 61 · **Closed issues**: 9294 · **Open issues**: 644 · **Commits**: 7039
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 84 | 11 | 142 | 82 | 74 |
-| last60d | 2026-07-24 | 11 | 147 | 24 | 258 | 144 | 139 |
-| 90d | 2026-06-24 | 16 | 196 | 29 | 376 | 200 | 197 |
-| last180d | 2026-03-26 | 33 | 467 | 41 | 873 | 459 | 452 |
-| 360d | 2025-09-27 | 68 | 759 | 50 | 2070 | 580 | 1179 |
-| last720d | 2024-10-02 | 100 | 1210 | 60 | 7935 | 639 | 5209 |
+| 30d | 2026-08-24 | 4 | 84 | 10 | 140 | 87 | 76 |
+| last60d | 2026-07-25 | 11 | 149 | 24 | 259 | 149 | 141 |
+| 90d | 2026-06-25 | 16 | 197 | 30 | 377 | 204 | 199 |
+| last180d | 2026-03-27 | 33 | 465 | 42 | 870 | 464 | 454 |
+| 360d | 2025-09-28 | 68 | 755 | 51 | 2065 | 584 | 1181 |
+| last720d | 2024-10-03 | 100 | 1210 | 61 | 7928 | 644 | 5200 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for desktop lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:42:09Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:49:32Z._
