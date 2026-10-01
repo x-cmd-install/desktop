@@ -14,15 +14,15 @@ x install desktop
 
 ## Code insight
 
-Total: **275,402** lines of code across **1366** files in the top 5 languages.
+Total: **275,610** lines of code across **1367** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 120,269 | 14,269 | 18,394 | 728 |
+| JavaScript | 120,465 | 14,291 | 18,426 | 729 |
 | TypeScript | 71,800 | 1,496 | 6,450 | 13 |
 | FreeMarker | 34,703 | 0 | 885 | 570 |
 | CppHeader | 17,980 | 4,492 | 3,054 | 1 |
-| Css | 11,102 | 544 | 2,268 | 54 |
+| Css | 11,113 | 544 | 2,271 | 54 |
 
 ## Source
 
@@ -38,22 +38,22 @@ Total: **275,402** lines of code across **1366** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 44,659 · **Forks**: 1,786 · **Open issues**: 9,976 · **Contributors**: 244
+- **Stars**: 44,670 · **Forks**: 1,791 · **Open issues**: 9,985 · **Contributors**: 244
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 1342 · **Open PRs**: 63 · **Closed issues**: 9340 · **Open issues**: 636 · **Commits**: 7064
+- **Releases**: 191 · **Merged PRs**: 1348 · **Open PRs**: 62 · **Closed issues**: 9346 · **Open issues**: 639 · **Commits**: 7073
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 4 | 88 | 10 | 148 | 68 | 0 |
-| last60d | 2026-08-01 | 10 | 158 | 23 | 266 | 132 | 0 |
-| 90d | 2026-07-02 | 16 | 213 | 31 | 392 | 187 | 0 |
-| last180d | 2026-04-03 | 32 | 466 | 43 | 864 | 443 | 0 |
-| 360d | 2025-10-05 | 67 | 772 | 53 | 2068 | 570 | 0 |
-| last720d | 2024-10-10 | 100 | 1224 | 63 | 7900 | 636 | 5128 |
+| 30d | 2026-09-01 | 4 | 91 | 10 | 150 | 72 | 93 |
+| last60d | 2026-08-02 | 10 | 161 | 22 | 272 | 134 | 163 |
+| 90d | 2026-07-03 | 15 | 219 | 30 | 395 | 187 | 218 |
+| last180d | 2026-04-04 | 31 | 468 | 42 | 861 | 442 | 468 |
+| 360d | 2025-10-06 | 67 | 778 | 52 | 2066 | 573 | 1185 |
+| last720d | 2024-10-11 | 100 | 1229 | 62 | 7885 | 639 | 5128 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for desktop lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T07:05:52Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T07:21:42Z._
