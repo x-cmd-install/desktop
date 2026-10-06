@@ -14,15 +14,15 @@ x install desktop
 
 ## Code insight
 
-Total: **276,324** lines of code across **1369** files in the top 5 languages.
+Total: **276,668** lines of code across **1370** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 121,045 | 14,398 | 18,500 | 731 |
+| JavaScript | 121,328 | 14,459 | 18,525 | 732 |
 | TypeScript | 71,800 | 1,496 | 6,450 | 13 |
-| FreeMarker | 34,726 | 0 | 885 | 570 |
+| FreeMarker | 34,732 | 0 | 885 | 570 |
 | CppHeader | 17,980 | 4,492 | 3,054 | 1 |
-| Css | 11,162 | 540 | 2,280 | 54 |
+| Css | 11,204 | 541 | 2,294 | 54 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **276,324** lines of code across **1369** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.23b` (2026-10-03)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-06
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 44,760 · **Forks**: 1,801 · **Open issues**: 10,036 · **Contributors**: 246
+- **Stars**: 44,779 · **Forks**: 1,803 · **Open issues**: 10,049 · **Contributors**: 246
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 1364 · **Open PRs**: 63 · **Closed issues**: 9381 · **Open issues**: 655 · **Commits**: 7089
+- **Releases**: 192 · **Merged PRs**: 1369 · **Open PRs**: 65 · **Closed issues**: 9389 · **Open issues**: 660 · **Commits**: 7094
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 5 | 98 | 10 | 164 | 84 | 84 |
-| last60d | 2026-08-06 | 11 | 165 | 21 | 295 | 143 | 162 |
-| 90d | 2026-07-07 | 16 | 223 | 32 | 413 | 200 | 224 |
-| last180d | 2026-04-08 | 32 | 469 | 44 | 864 | 452 | 457 |
-| 360d | 2025-10-10 | 67 | 782 | 53 | 2067 | 588 | 1158 |
-| last720d | 2024-10-15 | 100 | 1225 | 63 | 7861 | 655 | 5075 |
+| 30d | 2026-09-06 | 4 | 100 | 12 | 170 | 85 | 89 |
+| last60d | 2026-08-07 | 10 | 169 | 23 | 306 | 147 | 167 |
+| 90d | 2026-07-08 | 16 | 225 | 34 | 421 | 203 | 229 |
+| last180d | 2026-04-09 | 31 | 468 | 46 | 865 | 454 | 462 |
+| 360d | 2025-10-11 | 67 | 787 | 55 | 2076 | 593 | 1163 |
+| last720d | 2024-10-16 | 100 | 1227 | 64 | 7855 | 660 | 5047 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for desktop lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T07:07:52Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:53:12Z._
