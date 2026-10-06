@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 98779162,
       "digest": "sha256:66c861a546b489977ceea632b41d24390c254a92cb7c6e0bce3bdf5b09025a68",
-      "download_count": 104,
+      "download_count": 125,
       "created_at": "2026-10-03T10:03:46Z",
       "updated_at": "2026-10-03T10:03:50Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23b/linux-aarch64.mar"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 114337060,
       "digest": "sha256:a8e777d48641d91d26c316c7c4db4cb0b8fd1eb1663738f22306635a60079fe9",
-      "download_count": 5958,
+      "download_count": 6012,
       "created_at": "2026-10-03T10:03:46Z",
       "updated_at": "2026-10-03T10:03:50Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23b/linux.mar"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 166990644,
       "digest": "sha256:fd2b00ec1b6b89df4ad30b968d580854a263a278238e0a90ca991fa7e7ca0e07",
-      "download_count": 18786,
+      "download_count": 19123,
       "created_at": "2026-10-03T10:03:46Z",
       "updated_at": "2026-10-03T10:03:52Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23b/macos.mar"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 109710838,
       "digest": "sha256:67ef7470c4183d9ebb0f1cd0d955edd18e03903ac4d766a9bf59ae01d4bf6e62",
-      "download_count": 666,
+      "download_count": 694,
       "created_at": "2026-10-03T10:03:46Z",
       "updated_at": "2026-10-03T10:03:50Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23b/windows-arm64.mar"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 125576722,
       "digest": "sha256:27522206c3973efaebfd38f23f0512b4938ae8b1eb2d7a23a9c0af7e957727fa",
-      "download_count": 36800,
+      "download_count": 37065,
       "created_at": "2026-10-03T10:03:46Z",
       "updated_at": "2026-10-03T10:03:51Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23b/windows.mar"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 130304160,
       "digest": "sha256:209eecdbbd69fb4cd454f793af915773d92ced198dd4157a4bada0caf1fa9f8c",
-      "download_count": 86,
+      "download_count": 113,
       "created_at": "2026-10-03T10:03:46Z",
       "updated_at": "2026-10-03T10:03:51Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23b/zen-aarch64.AppImage"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 222903,
       "digest": "sha256:4d2baf0e83ee4ae6140b44830e9b37a8e611dd9279aa8de576cb8fbfdfe1ee67",
-      "download_count": 33,
+      "download_count": 47,
       "created_at": "2026-10-03T10:03:46Z",
       "updated_at": "2026-10-03T10:03:46Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23b/zen-aarch64.AppImage.zsync"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 145196512,
       "digest": "sha256:a83a68bef738dceb53aae1f02c72fea2f3b6d91d4b8591ecf5188e0d5f7405cc",
-      "download_count": 633,
+      "download_count": 826,
       "created_at": "2026-10-03T10:03:46Z",
       "updated_at": "2026-10-03T10:03:52Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23b/zen-x86_64.AppImage"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 248353,
       "digest": "sha256:884583b0077d98b0072d1076da357ae42330751b663f73263304fa149b419a23",
-      "download_count": 710,
+      "download_count": 1082,
       "created_at": "2026-10-03T10:03:46Z",
       "updated_at": "2026-10-03T10:03:46Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23b/zen-x86_64.AppImage.zsync"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 109105744,
       "digest": "sha256:129de9f20f4e37eb19a20f81a0f8699ecb283cfd206ddd61d6286c10e780a9fc",
-      "download_count": 320,
+      "download_count": 462,
       "created_at": "2026-10-03T10:03:46Z",
       "updated_at": "2026-10-03T10:03:50Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23b/zen.installer-arm64.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 116083448,
       "digest": "sha256:acdaf65f599eddf0fabb144f69596240b1ebab12f5fca2d9e55950d0aba0bc5d",
-      "download_count": 20198,
+      "download_count": 29747,
       "created_at": "2026-10-03T10:03:46Z",
       "updated_at": "2026-10-03T10:03:50Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23b/zen.installer.exe"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 98466324,
       "digest": "sha256:4774631868db53163bfecff457b9440e55cc04f24d4c3168df67722409a0bef2",
-      "download_count": 320,
+      "download_count": 476,
       "created_at": "2026-10-03T10:03:46Z",
       "updated_at": "2026-10-03T10:03:50Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23b/zen.linux-aarch64.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 111336696,
       "digest": "sha256:9ad79f50f52a60b85f1a0787de227235934ea0bd994f79b739fa806081b3fcf0",
-      "download_count": 11208,
+      "download_count": 16225,
       "created_at": "2026-10-03T10:03:46Z",
       "updated_at": "2026-10-03T10:03:50Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23b/zen.linux-x86_64.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 233642363,
       "digest": "sha256:3b06f974000c5f76267ad9cf53abf4b80c1958b626d99cc60cd503e551858ec3",
-      "download_count": 10322,
+      "download_count": 16165,
       "created_at": "2026-10-03T10:03:46Z",
       "updated_at": "2026-10-03T10:03:56Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23b/zen.macos-universal.dmg"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1075999095,
       "digest": "sha256:c2a2f7853f939f1a5f510c885d450564e5bcf6957453c1ff3adb0ea595b872aa",
-      "download_count": 143,
+      "download_count": 275,
       "created_at": "2026-10-03T10:03:46Z",
       "updated_at": "2026-10-03T10:04:23Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23b/zen.source.tar.zst"
@@ -582,8 +582,8 @@
   "body": "# Zen Stable Release\nIntroducing Library! A better place to organize and access your history, media, downloads, spaces and more.\n\n## Security\n- https://www.mozilla.org/en-US/security/advisories/mfsa2026-97/\n\n## New Features\n- Introducing Library! A better place to organize and access your history, media, downloads, spaces and more.\n- You can now resize the sidebar even when its hidden. If the sidebar is resized too small, it will automatically hide itself.\n- Updated to Firefox 157.0\n- WebRTC video calls can now use hardware AV1 decoding on devices that support it, instead of always decoding AV1 video in software.\n\n## Fixes\n- Significant performance improvements on startups/new windows when there are lots of tabs open.\n- Certain icon animations like the boost indicator or musical notes on the sidebar are now more performant. ([#15299](https://github.com/zen-browser/desktop/issues/15299))\n- Fixed status panel and glance controls not using the correct theme colors. ([#15280](https://github.com/zen-browser/desktop/issues/15280))\n- Fixed some HDR videos encoded in 8-bit color formats looking dull and gray on Windows instead of displaying in HDR.\n- Improved audio and video synchronization when repeatedly changing the playback speed of videos, for example on YouTube.\n- Fixed an issue on Windows where making a video full screen would leave the Windows taskbar showing over the video.\n\n## Changes\n- When a link gets routed to a specific space, it will prioritize the window that has that space open.\n- Some elements like the sidebar and the command bar now appear with blur effects.\n- On MacOS, buttons at the bottom of the sidebar now appear larger.\n- Swiping to the right on the last space will now try to create a new space.\n- When the sidebar is at the right, the buttons at the bottom are now reversed.\n",
   "reactions": {
     "url": "https://api.github.com/repos/zen-browser/desktop/releases/402448910/reactions",
-    "total_count": 90,
-    "+1": 36,
+    "total_count": 92,
+    "+1": 38,
     "-1": 0,
     "laugh": 4,
     "hooray": 8,
