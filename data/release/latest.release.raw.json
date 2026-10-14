@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 98819102,
       "digest": "sha256:8b7feacde5be8172be5b09554c38a6b747cc322f4d3e61e2b2e478e0b8bfdc61",
-      "download_count": 207,
+      "download_count": 228,
       "created_at": "2026-10-09T19:11:06Z",
       "updated_at": "2026-10-09T19:11:13Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.2b/linux-aarch64.mar"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 114369904,
       "digest": "sha256:1336d35f67f915f74ddab66b4ecac26af12a467f9320a31560da39d34bc49f99",
-      "download_count": 15782,
+      "download_count": 17303,
       "created_at": "2026-10-09T19:11:06Z",
       "updated_at": "2026-10-09T19:11:15Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.2b/linux.mar"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 167009796,
       "digest": "sha256:1c3e828d73fa617fb9b042fa4fb0f5fcacec682c5a03d368fa602041e55b5a30",
-      "download_count": 59572,
+      "download_count": 68262,
       "created_at": "2026-10-09T19:11:06Z",
       "updated_at": "2026-10-09T19:11:15Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.2b/macos.mar"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 109725842,
       "digest": "sha256:8cc607738dce40ddefc42e7142d0c9beef854fa775d17668cec6a251c8166d16",
-      "download_count": 1952,
+      "download_count": 2168,
       "created_at": "2026-10-09T19:11:06Z",
       "updated_at": "2026-10-09T19:11:12Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.2b/windows-arm64.mar"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 125517958,
       "digest": "sha256:a2d694d610e999b0fa56514dc14530a1d0a84d8e6be56e249a1e329d8869dd3d",
-      "download_count": 175333,
+      "download_count": 200213,
       "created_at": "2026-10-09T19:11:06Z",
       "updated_at": "2026-10-09T19:11:14Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.2b/windows.mar"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 130349216,
       "digest": "sha256:028d085ddcc4b4e891b824d8ae8d8880c7f987086c54614919b148f2d5b8ca45",
-      "download_count": 107,
+      "download_count": 130,
       "created_at": "2026-10-09T19:11:06Z",
       "updated_at": "2026-10-09T19:11:14Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.2b/zen-aarch64.AppImage"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 222980,
       "digest": "sha256:87870bba3d47e3c6e9335210172ec04ca59408c8c71f55888f018d51e8168b68",
-      "download_count": 42,
+      "download_count": 56,
       "created_at": "2026-10-09T19:11:06Z",
       "updated_at": "2026-10-09T19:11:06Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.2b/zen-aarch64.AppImage.zsync"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 145180128,
       "digest": "sha256:036373f45b495303ac2bd43ca815a0a67b9757176f86b459d0deab4b370691d0",
-      "download_count": 856,
+      "download_count": 1036,
       "created_at": "2026-10-09T19:11:06Z",
       "updated_at": "2026-10-09T19:11:16Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.2b/zen-x86_64.AppImage"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 248325,
       "digest": "sha256:db6c5cd6ad2a34491aa924c77843090693687301c1289e3c2582429e49aa8164",
-      "download_count": 1245,
+      "download_count": 1566,
       "created_at": "2026-10-09T19:11:06Z",
       "updated_at": "2026-10-09T19:11:06Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.2b/zen-x86_64.AppImage.zsync"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 109110992,
       "digest": "sha256:e46b391b0e2eaabc67fea419720fc5ab8d7328f8d0f7857484ff6d1f53ac2ad0",
-      "download_count": 495,
+      "download_count": 598,
       "created_at": "2026-10-09T19:11:06Z",
       "updated_at": "2026-10-09T19:11:14Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.2b/zen.installer-arm64.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 116073832,
       "digest": "sha256:5db120f5a811da3fcc449d75c0fea28bdeea6c362f5dfa694ea30f47583ddaee",
-      "download_count": 28589,
+      "download_count": 35042,
       "created_at": "2026-10-09T19:11:06Z",
       "updated_at": "2026-10-09T19:11:15Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.2b/zen.installer.exe"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 98385244,
       "digest": "sha256:96971f099c0adeae6a2edb4e128596d0706df974ac279b5ecde2aa93b07621d8",
-      "download_count": 580,
+      "download_count": 717,
       "created_at": "2026-10-09T19:11:06Z",
       "updated_at": "2026-10-09T19:11:13Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.2b/zen.linux-aarch64.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 111344356,
       "digest": "sha256:5e67f4fa081b1b437243c464449ea1bd2a3b15b6f932487a8aa0c25aa8514600",
-      "download_count": 18137,
+      "download_count": 21747,
       "created_at": "2026-10-09T19:11:06Z",
       "updated_at": "2026-10-09T19:11:13Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.2b/zen.linux-x86_64.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 233630679,
       "digest": "sha256:97548c8123d31c8123f097621b47e6b99cdeb57a8ba3c29b790dd065157f1d9e",
-      "download_count": 20775,
+      "download_count": 25731,
       "created_at": "2026-10-09T19:11:06Z",
       "updated_at": "2026-10-09T19:11:18Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.2b/zen.macos-universal.dmg"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1075839398,
       "digest": "sha256:a62662ed05061c9570ad8c96e085862f94d02db840b7e094cb03096977618720",
-      "download_count": 85,
+      "download_count": 97,
       "created_at": "2026-10-09T19:11:06Z",
       "updated_at": "2026-10-09T19:11:58Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.2b/zen.source.tar.zst"
@@ -582,14 +582,14 @@
   "body": "# Zen Stable Release\n\n\n## New Features\n- Added an 'open library' command to the command palette.\n- You can now right-click the media tab in the Library to disable it.\n\n## Fixes\n- Changed session backup file names to use local dates ([#15806](https://github.com/zen-browser/desktop/issues/15806))\n- Fixed the library getting stuck after opening and closing it quickly ([#15833](https://github.com/zen-browser/desktop/issues/15833))\n- Fixed blocked/unsafe downloads not having the choice to be opened or saved. ([#15809](https://github.com/zen-browser/desktop/issues/15809))\n- Fixed moving multiple tabs to new window irrecoverably loses unloaded tabs. ([#15810](https://github.com/zen-browser/desktop/issues/15810))\n- Fixed the sidebar having too much minimum width when they are aligned to the right. ([#15794](https://github.com/zen-browser/desktop/issues/15794))\n- Fixed HEIC media being listed in the media tab but do not render correctly. ([#15778](https://github.com/zen-browser/desktop/issues/15778))\n- Fixed space-assigned bookmarks not being saved anymore. ([#12721](https://github.com/zen-browser/desktop/issues/12721))\n- Fixed a memory leak issue on startup.\n- Other bug fixes and improvements.\n",
   "reactions": {
     "url": "https://api.github.com/repos/zen-browser/desktop/releases/408252946/reactions",
-    "total_count": 37,
-    "+1": 20,
+    "total_count": 41,
+    "+1": 23,
     "-1": 0,
     "laugh": 0,
     "hooray": 2,
     "confused": 0,
     "heart": 7,
     "rocket": 7,
-    "eyes": 1
+    "eyes": 2
   }
 }
