@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 102889892,
       "digest": "sha256:011854518a3d9c198a435306fdee56be4567e24c28b9bc900ee79ab4e79a4529",
-      "download_count": 37,
+      "download_count": 100,
       "created_at": "2026-10-16T22:08:07Z",
       "updated_at": "2026-10-16T22:08:12Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.3b/linux-aarch64.mar"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 116134540,
       "digest": "sha256:5e017f9fc7054f3fca5154e3cf58677bf8aff9b0d05f873cfbbcd35b4da042ae",
-      "download_count": 4689,
+      "download_count": 10578,
       "created_at": "2026-10-16T22:08:07Z",
       "updated_at": "2026-10-16T22:08:13Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.3b/linux.mar"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 170055016,
       "digest": "sha256:cefc4c72c100311d312421c027c4232bf0093596c2bdc76c602e83140d9ab908",
-      "download_count": 15602,
+      "download_count": 36768,
       "created_at": "2026-10-16T22:08:07Z",
       "updated_at": "2026-10-16T22:08:14Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.3b/macos.mar"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 113656934,
       "digest": "sha256:af9be420332ae845fe1b6b39bb7530f407402cdc4d5b9662c38edc1369dfc752",
-      "download_count": 507,
+      "download_count": 1211,
       "created_at": "2026-10-16T22:08:07Z",
       "updated_at": "2026-10-16T22:08:12Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.3b/windows-arm64.mar"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 127278986,
       "digest": "sha256:a3abfc9963153a17b4b1565abf1247652d334f27aedaf1a091c9792ac361fd4a",
-      "download_count": 33341,
+      "download_count": 97915,
       "created_at": "2026-10-16T22:08:07Z",
       "updated_at": "2026-10-16T22:08:13Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.3b/windows.mar"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 136026272,
       "digest": "sha256:d5b5a623ad9429eba602a8c84fbe5b5a2fadf3a304f4e5133c9d58eef1911c37",
-      "download_count": 18,
+      "download_count": 40,
       "created_at": "2026-10-16T22:08:07Z",
       "updated_at": "2026-10-16T22:08:13Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.3b/zen-aarch64.AppImage"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 232682,
       "digest": "sha256:10cf5f645e686323c7921ddaec3f291c8fbbce03fa0c7cb28378df4cd3a5a2ca",
-      "download_count": 4,
+      "download_count": 37,
       "created_at": "2026-10-16T22:08:07Z",
       "updated_at": "2026-10-16T22:08:07Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.3b/zen-aarch64.AppImage.zsync"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 147621344,
       "digest": "sha256:8f6b7a55ae8fd013147f40f592d12188dd26f19f4a4748e01b51e9747bd44bac",
-      "download_count": 119,
+      "download_count": 419,
       "created_at": "2026-10-16T22:08:07Z",
       "updated_at": "2026-10-16T22:08:14Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.3b/zen-x86_64.AppImage"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 252497,
       "digest": "sha256:93c541ecc0910de5b10f32e6ad1cd0d59639e8692c05e2f7c8a5f8acfaedfb62",
-      "download_count": 111,
+      "download_count": 504,
       "created_at": "2026-10-16T22:08:07Z",
       "updated_at": "2026-10-16T22:08:07Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.3b/zen-x86_64.AppImage.zsync"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 112853584,
       "digest": "sha256:f35f2ffd4478bd53580c4a30b68934290a3a7da05d06454fca3e4da7d696a182",
-      "download_count": 50,
+      "download_count": 192,
       "created_at": "2026-10-16T22:08:07Z",
       "updated_at": "2026-10-16T22:08:12Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.3b/zen.installer-arm64.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 117471760,
       "digest": "sha256:798f9826aa6342f0b555703d81328fa5fc81a8b8c3d15932cfbacbb173b439be",
-      "download_count": 1452,
+      "download_count": 7105,
       "created_at": "2026-10-16T22:08:07Z",
       "updated_at": "2026-10-16T22:08:12Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.3b/zen.installer.exe"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 102586088,
       "digest": "sha256:1100cb3e857254edba833a293eb50010de66a166465edfcdcc8536dde732dfa7",
-      "download_count": 61,
+      "download_count": 199,
       "created_at": "2026-10-16T22:08:07Z",
       "updated_at": "2026-10-16T22:08:12Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.3b/zen.linux-aarch64.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 113083216,
       "digest": "sha256:bb2045d3e21654d40fe841250092eeadfd2c1fc831eefb509222773c8bdca149",
-      "download_count": 769,
+      "download_count": 3841,
       "created_at": "2026-10-16T22:08:07Z",
       "updated_at": "2026-10-16T22:08:15Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.3b/zen.linux-x86_64.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 237964106,
       "digest": "sha256:051fa36cc7a4c74d001915369c483d1f2ea884680fce6ade4e5dfc4eb72218e0",
-      "download_count": 1856,
+      "download_count": 8137,
       "created_at": "2026-10-16T22:08:07Z",
       "updated_at": "2026-10-16T22:08:16Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.3b/zen.macos-universal.dmg"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1079206494,
       "digest": "sha256:71c938da6baa0ed15892933f2e7964ad777279cfcbd4e29c3b4b22efe17e8aeb",
-      "download_count": 21,
+      "download_count": 45,
       "created_at": "2026-10-16T22:08:07Z",
       "updated_at": "2026-10-16T22:08:50Z",
       "browser_download_url": "https://github.com/zen-browser/desktop/releases/download/1.23.3b/zen.source.tar.zst"
@@ -582,14 +582,14 @@
   "body": "# Zen Stable Release\n\n\n## Security\n- https://www.mozilla.org/security/advisories/mfsa2026-106\n\n## New Features\n- Updated Firefox to 158.0\n- Added a `--space <id|name>` option to the command line interface.\n- Library will now show a 'Open in Folder' option and download speed when hovering over the toolbar icon.\n- Zen now creates more accessible PDFs when saving a page as PDF, and when printing on Linux and macOS. This also fixes a variety of PDF rendering issues, such as missing math symbols.\n\n## Fixes\n- Fixed various animation, urlbar and UI performance issues.\n- Fixed Library media tab requesting onedrive to download all files from cloud. ([#15888](https://github.com/zen-browser/desktop/issues/15888))\n- Fixed unwanted label next to the search icon in urlbar. ([#14856](https://github.com/zen-browser/desktop/issues/14856))\n- Fixed Avahi access so CUPS printers are listed in flatpak sandbox. ([#9651](https://github.com/zen-browser/desktop/issues/9651))\n- Fixed various memory leak issues. ([#15954](https://github.com/zen-browser/desktop/issues/15954))\n- Fixed a crash that could occur while Zen loaded website icons (favicons).\n- Fixed menus such as List all tabs, Settings, etc being hard to read with a Windows High Contrast theme. Menu background and text colors now follow the Background and Text colors chosen for a custom contrast theme in Windows Settings.\n- Other bug fixes and improvements.\n\n## Changes\n- Space routing regex will now match URLs as case-insensitive.\n- Library's widget hover list will now only display recently downloaded files.\n- Zen no longer rounds scroll positions to whole screen pixels. Scrolling is now smoother and more precise, especially on high-resolution displays or when a page is zoomed.\n",
   "reactions": {
     "url": "https://api.github.com/repos/zen-browser/desktop/releases/415419866/reactions",
-    "total_count": 10,
-    "+1": 5,
+    "total_count": 31,
+    "+1": 13,
     "-1": 0,
     "laugh": 0,
-    "hooray": 1,
+    "hooray": 4,
     "confused": 0,
-    "heart": 3,
-    "rocket": 1,
+    "heart": 9,
+    "rocket": 5,
     "eyes": 0
   }
 }
