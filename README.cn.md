@@ -32,48 +32,48 @@ x install desktop
 
 ## 发布
 
-- **最新版本**: `1.23.4b` (2026-10-21)
-- **最近提交**: 2026-10-29
+- **最新版本**: `1.24b` (2026-10-29)
+- **最近提交**: 2026-10-30
 - **Release 含资产**: 15 个
 
 ## 流行度
 
-- **Star**: 45,398 · **Fork**: 1,925 · **开放 issue**: 10,290 · **贡献者**: 264
+- **Star**: 45,436 · **Fork**: 1,929 · **开放 issue**: 10,306 · **贡献者**: 265
 
 ## 累计统计
 
-- **发布数**: 196 · **已合并 PR**: 1442 · **开放 PR**: 73 · **已关闭 issue**: 9563 · **开放 issue**: 727 · **提交数**: 7167
+- **发布数**: 197 · **已合并 PR**: 1443 · **开放 PR**: 74 · **已关闭 issue**: 9572 · **开放 issue**: 734 · **提交数**: 7168
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 5 | 92 | 26 | 190 | 132 | 93 |
-| last60d | 2026-08-30 | 9 | 186 | 31 | 348 | 194 | 191 |
-| 90d | 2026-07-31 | 15 | 258 | 39 | 469 | 251 | 260 |
-| last180d | 2026-05-02 | 31 | 469 | 54 | 907 | 474 | 461 |
-| 360d | 2025-11-03 | 66 | 803 | 64 | 2052 | 653 | 1147 |
-| last720d | 2024-11-08 | 100 | 1272 | 72 | 7652 | 727 | 4874 |
+| 30d | 2026-09-30 | 6 | 89 | 27 | 191 | 137 | 94 |
+| last60d | 2026-08-31 | 10 | 185 | 32 | 351 | 201 | 192 |
+| 90d | 2026-08-01 | 16 | 258 | 40 | 475 | 259 | 261 |
+| last180d | 2026-05-03 | 32 | 466 | 55 | 910 | 480 | 462 |
+| 360d | 2025-11-04 | 67 | 804 | 64 | 2056 | 658 | 1148 |
+| last720d | 2024-11-09 | 100 | 1269 | 73 | 7642 | 734 | 4863 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [linux-aarch64.mar](https://github.com/zen-browser/desktop/releases/download/1.23.4b/linux-aarch64.mar) | 98.1 MiB | `native/linux/arm64` |
-| [linux.mar](https://github.com/zen-browser/desktop/releases/download/1.23.4b/linux.mar) | 111.1 MiB | `other` |
-| [macos.mar](https://github.com/zen-browser/desktop/releases/download/1.23.4b/macos.mar) | 162.6 MiB | `native/darwin/x64` |
-| [windows-arm64.mar](https://github.com/zen-browser/desktop/releases/download/1.23.4b/windows-arm64.mar) | 108.4 MiB | `native/win/arm64` |
-| [windows.mar](https://github.com/zen-browser/desktop/releases/download/1.23.4b/windows.mar) | 122.2 MiB | `native/win/x64` |
-| [zen-aarch64.AppImage](https://github.com/zen-browser/desktop/releases/download/1.23.4b/zen-aarch64.AppImage) | 129.7 MiB | `other` |
-| [zen-aarch64.AppImage.zsync](https://github.com/zen-browser/desktop/releases/download/1.23.4b/zen-aarch64.AppImage.zsync) | 227.2 KiB | `other` |
-| [zen-x86_64.AppImage](https://github.com/zen-browser/desktop/releases/download/1.23.4b/zen-x86_64.AppImage) | 141.1 MiB | `other` |
-| [zen-x86_64.AppImage.zsync](https://github.com/zen-browser/desktop/releases/download/1.23.4b/zen-x86_64.AppImage.zsync) | 247.2 KiB | `other` |
-| [zen.installer-arm64.exe](https://github.com/zen-browser/desktop/releases/download/1.23.4b/zen.installer-arm64.exe) | 107.6 MiB | `other` |
-| [zen.installer.exe](https://github.com/zen-browser/desktop/releases/download/1.23.4b/zen.installer.exe) | 112.9 MiB | `other` |
-| [zen.linux-aarch64.tar.xz](https://github.com/zen-browser/desktop/releases/download/1.23.4b/zen.linux-aarch64.tar.xz) | 97.9 MiB | `native/linux/arm64` |
-| [zen.linux-x86_64.tar.xz](https://github.com/zen-browser/desktop/releases/download/1.23.4b/zen.linux-x86_64.tar.xz) | 108.2 MiB | `native/linux/x64` |
-| [zen.macos-universal.dmg](https://github.com/zen-browser/desktop/releases/download/1.23.4b/zen.macos-universal.dmg) | 227.6 MiB | `native/darwin/x64` |
-| [zen.source.tar.zst](https://github.com/zen-browser/desktop/releases/download/1.23.4b/zen.source.tar.zst) | 1.0 GiB | `other` |
+| [linux-aarch64.mar](https://github.com/zen-browser/desktop/releases/download/1.24b/linux-aarch64.mar) | 98.3 MiB | `native/linux/arm64` |
+| [linux.mar](https://github.com/zen-browser/desktop/releases/download/1.24b/linux.mar) | 111.4 MiB | `other` |
+| [macos.mar](https://github.com/zen-browser/desktop/releases/download/1.24b/macos.mar) | 162.7 MiB | `native/darwin/x64` |
+| [windows-arm64.mar](https://github.com/zen-browser/desktop/releases/download/1.24b/windows-arm64.mar) | 108.7 MiB | `native/win/arm64` |
+| [windows.mar](https://github.com/zen-browser/desktop/releases/download/1.24b/windows.mar) | 122.6 MiB | `native/win/x64` |
+| [zen-aarch64.AppImage](https://github.com/zen-browser/desktop/releases/download/1.24b/zen-aarch64.AppImage) | 129.9 MiB | `other` |
+| [zen-aarch64.AppImage.zsync](https://github.com/zen-browser/desktop/releases/download/1.24b/zen-aarch64.AppImage.zsync) | 227.6 KiB | `other` |
+| [zen-x86_64.AppImage](https://github.com/zen-browser/desktop/releases/download/1.24b/zen-x86_64.AppImage) | 141.6 MiB | `other` |
+| [zen-x86_64.AppImage.zsync](https://github.com/zen-browser/desktop/releases/download/1.24b/zen-x86_64.AppImage.zsync) | 247.9 KiB | `other` |
+| [zen.installer-arm64.exe](https://github.com/zen-browser/desktop/releases/download/1.24b/zen.installer-arm64.exe) | 107.8 MiB | `other` |
+| [zen.installer.exe](https://github.com/zen-browser/desktop/releases/download/1.24b/zen.installer.exe) | 113.1 MiB | `other` |
+| [zen.linux-aarch64.tar.xz](https://github.com/zen-browser/desktop/releases/download/1.24b/zen.linux-aarch64.tar.xz) | 98.0 MiB | `native/linux/arm64` |
+| [zen.linux-x86_64.tar.xz](https://github.com/zen-browser/desktop/releases/download/1.24b/zen.linux-x86_64.tar.xz) | 108.0 MiB | `native/linux/x64` |
+| [zen.macos-universal.dmg](https://github.com/zen-browser/desktop/releases/download/1.24b/zen.macos-universal.dmg) | 227.7 MiB | `native/darwin/x64` |
+| [zen.source.tar.zst](https://github.com/zen-browser/desktop/releases/download/1.24b/zen.source.tar.zst) | 1.0 GiB | `other` |
 
 ## 改进这些数据
 
@@ -84,4 +84,4 @@ desktop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261029.yml` · 2026-10-29T07:19:48Z._
+_数据快照: `data/card/261030.yml` · 2026-10-30T07:16:45Z._
