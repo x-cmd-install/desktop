@@ -14,15 +14,15 @@ x install desktop
 
 ## Code insight
 
-Total: **330,845** lines of code across **1728** files in the top 5 languages.
+Total: **335,046** lines of code across **1748** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 154,129 | 17,334 | 21,120 | 878 |
+| JavaScript | 157,188 | 17,501 | 21,413 | 895 |
 | TypeScript | 71,800 | 1,496 | 6,450 | 13 |
-| FreeMarker | 46,494 | 0 | 1,263 | 777 |
+| FreeMarker | 46,736 | 0 | 1,288 | 778 |
 | CppHeader | 17,980 | 4,492 | 3,054 | 1 |
-| Css | 12,916 | 670 | 2,614 | 59 |
+| Css | 13,683 | 699 | 2,755 | 61 |
 
 ## Source
 
@@ -32,48 +32,48 @@ Total: **330,845** lines of code across **1728** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `1.24.2b` (2026-11-12)
-- **Last commit**: 2026-11-15
+- **Latest**: `1.24.3b` (2026-11-18)
+- **Last commit**: 2026-11-18
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 45,835 · **Forks**: 1,997 · **Open issues**: 10,489 · **Contributors**: 274
+- **Stars**: 45,901 · **Forks**: 2,010 · **Open issues**: 10,520 · **Contributors**: 276
 
 ## Totals (cumulative)
 
-- **Releases**: 199 · **Merged PRs**: 1508 · **Open PRs**: 88 · **Closed issues**: 9696 · **Open issues**: 793 · **Commits**: 7234
+- **Releases**: 200 · **Merged PRs**: 1518 · **Open PRs**: 90 · **Closed issues**: 9729 · **Open issues**: 791 · **Commits**: 7244
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 4 | 96 | 33 | 183 | 136 | 86 |
-| last60d | 2026-09-17 | 9 | 196 | 45 | 367 | 237 | 194 |
-| 90d | 2026-08-18 | 14 | 283 | 51 | 529 | 294 | 283 |
-| last180d | 2026-05-20 | 32 | 478 | 65 | 948 | 513 | 468 |
-| 360d | 2025-11-21 | 65 | 838 | 77 | 2052 | 707 | 1136 |
-| last720d | 2024-11-26 | 100 | 1301 | 87 | 7477 | 793 | 4780 |
+| 30d | 2026-10-20 | 5 | 98 | 32 | 190 | 132 | 96 |
+| last60d | 2026-09-20 | 10 | 199 | 48 | 376 | 233 | 204 |
+| 90d | 2026-08-21 | 14 | 287 | 54 | 542 | 291 | 293 |
+| last180d | 2026-05-23 | 33 | 481 | 68 | 964 | 508 | 478 |
+| 360d | 2025-11-24 | 66 | 845 | 80 | 2070 | 706 | 1146 |
+| last720d | 2024-11-29 | 100 | 1305 | 89 | 7455 | 791 | 4707 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [linux-aarch64.mar](https://github.com/zen-browser/desktop/releases/download/1.24.2b/linux-aarch64.mar) | 99.6 MiB | `native/linux/arm64` |
-| [linux.mar](https://github.com/zen-browser/desktop/releases/download/1.24.2b/linux.mar) | 112.5 MiB | `other` |
-| [macos.mar](https://github.com/zen-browser/desktop/releases/download/1.24.2b/macos.mar) | 164.2 MiB | `native/darwin/x64` |
-| [windows-arm64.mar](https://github.com/zen-browser/desktop/releases/download/1.24.2b/windows-arm64.mar) | 110.0 MiB | `native/win/arm64` |
-| [windows.mar](https://github.com/zen-browser/desktop/releases/download/1.24.2b/windows.mar) | 123.9 MiB | `native/win/x64` |
-| [zen-aarch64.AppImage](https://github.com/zen-browser/desktop/releases/download/1.24.2b/zen-aarch64.AppImage) | 131.5 MiB | `other` |
-| [zen-aarch64.AppImage.zsync](https://github.com/zen-browser/desktop/releases/download/1.24.2b/zen-aarch64.AppImage.zsync) | 230.4 KiB | `other` |
-| [zen-x86_64.AppImage](https://github.com/zen-browser/desktop/releases/download/1.24.2b/zen-x86_64.AppImage) | 142.8 MiB | `other` |
-| [zen-x86_64.AppImage.zsync](https://github.com/zen-browser/desktop/releases/download/1.24.2b/zen-x86_64.AppImage.zsync) | 250.2 KiB | `other` |
-| [zen.installer-arm64.exe](https://github.com/zen-browser/desktop/releases/download/1.24.2b/zen.installer-arm64.exe) | 109.1 MiB | `other` |
-| [zen.installer.exe](https://github.com/zen-browser/desktop/releases/download/1.24.2b/zen.installer.exe) | 114.3 MiB | `other` |
-| [zen.linux-aarch64.tar.xz](https://github.com/zen-browser/desktop/releases/download/1.24.2b/zen.linux-aarch64.tar.xz) | 99.3 MiB | `native/linux/arm64` |
-| [zen.linux-x86_64.tar.xz](https://github.com/zen-browser/desktop/releases/download/1.24.2b/zen.linux-x86_64.tar.xz) | 109.5 MiB | `native/linux/x64` |
-| [zen.macos-universal.dmg](https://github.com/zen-browser/desktop/releases/download/1.24.2b/zen.macos-universal.dmg) | 229.6 MiB | `native/darwin/x64` |
-| [zen.source.tar.zst](https://github.com/zen-browser/desktop/releases/download/1.24.2b/zen.source.tar.zst) | 1.0 GiB | `other` |
+| [linux-aarch64.mar](https://github.com/zen-browser/desktop/releases/download/1.24.3b/linux-aarch64.mar) | 99.6 MiB | `native/linux/arm64` |
+| [linux.mar](https://github.com/zen-browser/desktop/releases/download/1.24.3b/linux.mar) | 112.4 MiB | `other` |
+| [macos.mar](https://github.com/zen-browser/desktop/releases/download/1.24.3b/macos.mar) | 164.3 MiB | `native/darwin/x64` |
+| [windows-arm64.mar](https://github.com/zen-browser/desktop/releases/download/1.24.3b/windows-arm64.mar) | 110.0 MiB | `native/win/arm64` |
+| [windows.mar](https://github.com/zen-browser/desktop/releases/download/1.24.3b/windows.mar) | 123.9 MiB | `native/win/x64` |
+| [zen-aarch64.AppImage](https://github.com/zen-browser/desktop/releases/download/1.24.3b/zen-aarch64.AppImage) | 131.5 MiB | `other` |
+| [zen-aarch64.AppImage.zsync](https://github.com/zen-browser/desktop/releases/download/1.24.3b/zen-aarch64.AppImage.zsync) | 230.3 KiB | `other` |
+| [zen-x86_64.AppImage](https://github.com/zen-browser/desktop/releases/download/1.24.3b/zen-x86_64.AppImage) | 142.7 MiB | `other` |
+| [zen-x86_64.AppImage.zsync](https://github.com/zen-browser/desktop/releases/download/1.24.3b/zen-x86_64.AppImage.zsync) | 250.0 KiB | `other` |
+| [zen.installer-arm64.exe](https://github.com/zen-browser/desktop/releases/download/1.24.3b/zen.installer-arm64.exe) | 109.1 MiB | `other` |
+| [zen.installer.exe](https://github.com/zen-browser/desktop/releases/download/1.24.3b/zen.installer.exe) | 114.3 MiB | `other` |
+| [zen.linux-aarch64.tar.xz](https://github.com/zen-browser/desktop/releases/download/1.24.3b/zen.linux-aarch64.tar.xz) | 99.4 MiB | `native/linux/arm64` |
+| [zen.linux-x86_64.tar.xz](https://github.com/zen-browser/desktop/releases/download/1.24.3b/zen.linux-x86_64.tar.xz) | 109.1 MiB | `native/linux/x64` |
+| [zen.macos-universal.dmg](https://github.com/zen-browser/desktop/releases/download/1.24.3b/zen.macos-universal.dmg) | 229.7 MiB | `native/darwin/x64` |
+| [zen.source.tar.zst](https://github.com/zen-browser/desktop/releases/download/1.24.3b/zen.source.tar.zst) | 1.0 GiB | `other` |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for desktop lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:55:56Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:29:44Z._
