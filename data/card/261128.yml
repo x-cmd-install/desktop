@@ -1,0 +1,228 @@
+about:
+  description: "Welcome to a calmer internet"
+  license: MPL-2.0
+  homepage: https://zen-browser.app
+  head: 7d9d1e5
+  archived: false
+  latestVersion: "1.24.3b"
+  latestRelease: "1.24.3b"
+  latestPrerelease: "twilight-1"
+  collectedAt: 2026-11-28T09:03:35Z
+timeline:
+  created: 2024-03-28
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-18
+  lastRelease: 2026-11-18
+  lastPrerelease: 2026-02-21
+popularity:
+  star: 46050
+  watcher: 100
+  fork: 2037
+  release: 200
+  contributor: 280
+  pullRequest: 2337
+  issue: 10600
+language:
+  C++: 9028739
+  JavaScript: 2204425
+  Fluent: 2181913
+  CSS: 446849
+  HTML: 122471
+  Python: 35271
+  Swift: 27969
+  Shell: 27332
+  Objective-C++: 22856
+  Rust: 15214
+  PowerShell: 11042
+  Makefile: 6421
+  Objective-C: 3286
+  CMake: 2007
+totalBytes: 14135795
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 4
+    mergedPR: 101
+    openPR: 26
+    closedIssue: 183
+    openIssue: 117
+    commit: 104
+  last60d:
+    since: 2026-09-29
+    release: 9
+    mergedPR: 196
+    openPR: 46
+    closedIssue: 398
+    openIssue: 232
+    commit: 208
+  last90d:
+    since: 2026-08-30
+    release: 13
+    mergedPR: 290
+    openPR: 50
+    closedIssue: 556
+    openIssue: 294
+    commit: 300
+  last180d:
+    since: 2026-06-01
+    release: 31
+    mergedPR: 480
+    openPR: 65
+    closedIssue: 959
+    openIssue: 493
+    commit: 487
+  last360d:
+    since: 2025-12-03
+    release: 62
+    mergedPR: 866
+    openPR: 77
+    closedIssue: 2069
+    openIssue: 716
+    commit: 1163
+  last720d:
+    since: 2024-12-08
+    release: 100
+    mergedPR: 1330
+    openPR: 86
+    closedIssue: 7419
+    openIssue: 804
+    commit: 4683
+total:
+  release: 200
+  mergedPR: 1546
+  openPR: 87
+  closedIssue: 9796
+  openIssue: 804
+  commit: 7272
+---
+path: /home/runner/.x-repo/github.com/zen-browser/desktop
+collectedAt: 2026-11-28T09:05:02Z
+loc:
+  JavaScript:
+    code: 159730
+    comments: 17648
+    blanks: 21694
+    files: 903
+  TypeScript:
+    code: 71800
+    comments: 1496
+    blanks: 6450
+    files: 13
+  FreeMarker:
+    code: 46733
+    comments: 0
+    blanks: 1287
+    files: 778
+  CppHeader:
+    code: 17980
+    comments: 4492
+    blanks: 3054
+    files: 1
+  Css:
+    code: 13911
+    comments: 701
+    blanks: 2797
+    files: 61
+  Json:
+    code: 8939
+    comments: 0
+    blanks: 21
+    files: 52
+  Python:
+    code: 5799
+    comments: 444
+    blanks: 1109
+    files: 48
+  Cpp:
+    code: 3469
+    comments: 460
+    blanks: 594
+    files: 31
+  Svg:
+    code: 2749
+    comments: 96
+    blanks: 0
+    files: 443
+  Toml:
+    code: 1993
+    comments: 156
+    blanks: 825
+    files: 64
+  Html:
+    code: 1322
+    comments: 28
+    blanks: 49
+    files: 108
+  Yaml:
+    code: 801
+    comments: 180
+    blanks: 339
+    files: 41
+  Swift:
+    code: 714
+    comments: 24
+    blanks: 61
+    files: 1
+  Sh:
+    code: 634
+    comments: 114
+    blanks: 125
+    files: 10
+  ObjectiveCpp:
+    code: 569
+    comments: 45
+    blanks: 83
+    files: 8
+  CHeader:
+    code: 566
+    comments: 416
+    blanks: 227
+    files: 21
+  Bitbake:
+    code: 458
+    comments: 56
+    blanks: 21
+    files: 12
+  Rust:
+    code: 230
+    comments: 123
+    blanks: 23
+    files: 1
+  PowerShell:
+    code: 187
+    comments: 40
+    blanks: 57
+    files: 3
+  Makefile:
+    code: 105
+    comments: 54
+    blanks: 49
+    files: 1
+  CMake:
+    code: 46
+    comments: 8
+    blanks: 14
+    files: 2
+  Markdown:
+    code: 0
+    comments: 7202
+    blanks: 180
+    files: 29
+  Text:
+    code: 0
+    comments: 17
+    blanks: 6
+    files: 4
+total:
+  code: 339001
+  comments: 33817
+  blanks: 39100
+  files: 2635
+---
+
+---
+  - gfxtest
+  - zen
+  - zen-bin
+  - updater
+  - pingsender
